@@ -17,8 +17,11 @@ https://github.com/personwhofloat/emptool_private_compare/tree/master
 #### to run the project:
 
 mkdir build
+
 cd build
+
 cmake ..
+
 make && ./mpsu.exe
 
 There will be an error messages for the first time to run the code. It's due to the emp and libOTe both contain class of block.
